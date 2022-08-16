@@ -1,5 +1,6 @@
 # QR-Logger
 Source code for QR Logger mobile application
+
 *This was primarily a learning experience in mobile app development and React-Native*
 
 
